@@ -55,7 +55,7 @@ function Pricing() {
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">1 landing page included</span>
+                  <span className="text-base text-slate-700">Access to PDF-EDIT tools</span>
                 </li>
                 <li className="flex space-x-3">
                   <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
@@ -69,21 +69,14 @@ function Pricing() {
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
+                  <span className="text-base text-slate-700">Limited document processing</span>
                 </li>
                 <li className="flex space-x-3">
                   <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
-                </li>
-                <li className="flex space-x-3">
-                  <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                    <path d="M5 12l5 5l10 -10"></path>
-                  </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
+                  <span className="text-base text-slate-700">Work on Web</span>
                 </li>
               </ul>
             </div>
@@ -108,35 +101,28 @@ function Pricing() {
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">All Free features</span>
+                  <span className="text-base text-slate-700">Full access to PDF-EDIT tools</span>
                 </li>
                 <li className="flex space-x-3">
                   <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
+                  <span className="text-base text-slate-700">Unlimited document processing</span>
                 </li>
                 <li className="flex space-x-3">
                   <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
+                  <span className="text-base text-slate-700">Work on Web, Mobile and Desktop</span>
                 </li>
                 <li className="flex space-x-3">
                   <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
-                </li>
-                <li className="flex space-x-3">
-                  <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                    <path d="M5 12l5 5l10 -10"></path>
-                  </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
+                  <span className="text-base text-slate-700">No Ads</span>
                 </li>
                 
               </ul>
@@ -144,14 +130,14 @@ function Pricing() {
           </div>
           <div className="border border-slate-200 hover:border-red-400 rounded-lg shadow-sm divide-y divide-slate-200">
             <div className="p-6">
-              <h2 className="text-xl leading-6 font-bold text-red-500">Shipper</h2>
-              <p className="mt-2 text-base text-slate-700 leading-tight">For productive shippers who want to work more efficiently.</p>
+              <h2 className="text-xl leading-6 font-bold text-red-500">Business</h2>
+              <p className="mt-2 text-base text-slate-700 leading-tight">For productive Business who want to work more efficiently.</p>
               <p className="mt-8">
                 <span className="text-4xl font-bold text-red-500 tracking-tighter">${calculatePrice(15)}</span>
                 <span className="text-base font-medium text-red-500">/{billingCycle === 'monthly' ? 'mo' : 'yr'}</span>
               </p>
               <a href="/sign-up" className="mt-8 block w-full bg-red-500 hover:bg-red-400 rounded-md py-2 text-sm font-semibold text-white text-center">
-                Join as a Shipper
+                Join For Business
               </a>
             </div>
             <div className="pt-6 pb-8 px-6">
@@ -162,37 +148,29 @@ function Pricing() {
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
+                  <span className="text-base text-slate-700">Flexible payment options</span>
                 </li>
                 <li className="flex space-x-3">
                   <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">All</span>
+                  <span className="text-base text-slate-700">Custom contract</span>
                 </li>
                 <li className="flex space-x-3">
                   <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
+                  <span className="text-base text-slate-700">Dedicated customer support</span>
                 </li>
                 <li className="flex space-x-3">
                   <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
                     <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                     <path d="M5 12l5 5l10 -10"></path>
                   </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
+                  <span className="text-base text-slate-700">SSO</span>
                 </li>
-                <li className="flex space-x-3">
-                  <svg xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0 h-5 w-5 text-green-400" width="24" height="24" viewBox="0 0 24 24" strokeWidth="2" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-                    <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-                    <path d="M5 12l5 5l10 -10"></path>
-                  </svg>
-                  <span className="text-base text-slate-700">All Standard features</span>
-                </li>
-                {/* Other features */}
               </ul>
             </div>
           </div>

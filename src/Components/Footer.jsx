@@ -53,7 +53,7 @@ export default function Footer() {
                                 </li>
                                 <li>
                                     <a href="/CakeImage" className=" text-red-500 hover:text-red-400">
-                                        Products
+                                        Tools
                                     </a>
                                 </li>
                             </ul>
